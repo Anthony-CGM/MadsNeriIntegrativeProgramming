@@ -1,0 +1,14 @@
+#activeChart {
+    padding: 0px;
+  }
+  
+  .chart-container {
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+   
+  }
+
+  #suppliesChart {
+    padding: 0px;
+  }

@@ -1,0 +1,84 @@
+12/15/2022
+CRUD
+supply with fk ng supplier
+device with fk ng customer
+supplier edit
+
+
+
+
+
+Integrative programming: Project requirements
+Machine Problem
+
+CRUD api should have token AUTH:API MIDDLEWARE
+
+Machine Problems 20pts
+
+o	MP1 CRUD api
+
+o	MP2 CRUD Jquery/datatables frontend for mp1
+
+o	MP3 CRUD api
+
+o	MP4 CRUD Jquery/datatables frontend for mp3
+
+o	MP5 CRUD api
+
+o	MP6 CRUD Jquery/datatables frontend for mp5
+
+o	MP7 User registration CRUD Api
+
+o	MP8 CRUD Jquery/datatables frontend for mp7. instead of deleting the user, just deactivate the account.
+
+o	MP9 Email validation. upon user registration, the user will receive an email and confirm it. only confirmed users will have access to the app.
+
+QUIZ
+
+	QUIZ 1 15PTS
+
+o	Jquery validation for crud pages 10pts
+
+o	Jquery and laravel node backend validation for crud pages 15pts
+
+	QUIZ 2 15PTS
+o	jquery/api search/autocomplete on homepage simple "LIKE" query 10pts
+
+o	jquery/api search/autocomplete on homepage. use laravel scout,  spatie model search or mongoose fuzzy search 15pts
+
+	QUIZ 3 15PTS
+
+o	jquery pagination (datatable pagination is not applicable) 10pts
+
+o	jquery infinite scroll (datatable pagination is not applicable) 15pts
+
+
+
+
+	Quiz 4 15pts
+o	three(3) js charts  simple count 10pts
+o	three(3) js charts  averages and dates  or chart will change based on other types of input 15pts
+UNIT TEST
+
+	Unit Test 1 20pts
+o	Login/Logout Authentication with token generation (sanctum, jwt, passport, nodejs json webtoken) 15pts
+o	google or facebook Login/Logout Authentication with token generation (sanctum, jwt, passport, nodejs json webtoken) 20pts
+	Unit Test 2 30pts
+o	functional requirements completeness and program execution (minimal errors) 5
+o	App complexity. 10
+o	UI/UX Design. 10
+o	Early Submission and completion. 5
+TERM TEST
+
+o	Transactions CRUD Api And Jquery Front End. The Sample UI implementation will have lower score.
+
+
+NOTES
+
+	Project Checking Will Be On Dec 15. Mp1 - Mp9 20pts
+
+	Last Day Of Checking Jan 5.  Mp1 - Mp9 15pts
+
+	Your Group May Or May Not Receive The Same Grade. 
+
+	No 1.0 Grade Since This Is A Team Activity
